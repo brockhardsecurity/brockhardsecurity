@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brockhardsecurity -> 
+- 👋 Hi, I’m Brock Rosen
 - 👀 I’m interested in cybersecurity!
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on cybersecurity projects
