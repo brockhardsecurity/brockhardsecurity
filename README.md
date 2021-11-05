@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Brock Rosen
-- 👀 I’m interested in cybersecurity!
+- 👀 I’m new to Github!
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on cybersecurity projects
 - 📫 How to reach me - email brock@brockhardsecurity.com
 
-- YouTube https://www.youtube.com/channel/UCLsu8LJhGEuEpt9fMFI9LmA
+- YouTube https://www.youtube.com/c/brockhardsecurity
 - Website https://brockhardsecurity.com/
 
 <!---
